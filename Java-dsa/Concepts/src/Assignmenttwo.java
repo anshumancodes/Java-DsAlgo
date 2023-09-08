@@ -68,19 +68,25 @@ public class Assignmenttwo {
 
         // write average of N numbers
 
-        System.out.println("enter how many numbers you want to enter");
-        int n=user_input.nextInt();
-        int sum=0;
-        for (int i=1;i<=n;i++){
-            System.out.println("enter number");
-            int num=user_input.nextInt();
-            sum=sum+num;
+//        System.out.println("enter how many numbers you want to enter");
+//        int n=user_input.nextInt();
+//        int sum=0;
+//        for (int i=1;i<=n;i++){
+//            System.out.println("enter number");
+//            int num=user_input.nextInt();
+//            sum=sum+num;
+//
+//            System.out.println("i: "+i);
+//
+//
+//        }
+//
+//        System.out.println("avg: "+sum/n);
 
-            System.out.println("i: "+i);
+        // fibonacci series
 
 
-        }
 
-        System.out.println("avg: "+sum/n);
+
     }
 }
